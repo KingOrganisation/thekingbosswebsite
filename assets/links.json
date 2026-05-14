@@ -1,7 +1,7 @@
 [
   { 
     "name": "Discord",
-    "url": "https://.../discord",
+    "url": "https://thekingbosswebsite.vercel.app/discord",
     "icon": "discord",
     "status": "Active",
     "label": "Midnight's Discord"

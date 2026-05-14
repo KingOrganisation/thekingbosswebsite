@@ -1,14 +1,5 @@
 const FA_ICONS = {
-  github:    'fa-brands fa-github',
   discord:   'fa-brands fa-discord',
-  x:         'fa-brands fa-x-twitter',
-  instagram: 'fa-brands fa-instagram',
-  youtube:   'fa-brands fa-youtube',
-  twitch:    'fa-brands fa-twitch',
-  tiktok:    'fa-brands fa-tiktok',
-  gamepad:   'fa-solid fa-gamepad',
-  reddit:    'fa-brands fa-reddit',
-  globe:     'fa-solid fa-globe'
 }
 
 function base () { return document.body.dataset.base || '' }
